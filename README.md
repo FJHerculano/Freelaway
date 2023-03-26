@@ -1,6 +1,7 @@
 # Freelaway
 Projeto realizado no intensivo de python utilizando o django
 
+Pagina de login
 ![Captura de tela 2023-03-26 200121](https://user-images.githubusercontent.com/38568926/227810546-dce206ac-cee9-46ae-a436-2cf09a5a24cc.png)
 
 ![Captura de tela 2023-03-26 200508](https://user-images.githubusercontent.com/38568926/227810551-ace8a806-af9e-4404-a7b7-808cd3f5183a.png)
